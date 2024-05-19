@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ .active {
+    background: rgb(10, 204, 211);
+
+ }
+  
